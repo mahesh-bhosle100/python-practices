@@ -1,0 +1,24 @@
+{
+  "mahesh": {
+    "name": "mahesh",
+    "games_played": 1,
+    "games_won": 1,
+    "total_guesses": 4,
+    "best_score": 4,
+    "worst_score": 4,
+    "game_history": [
+      {
+        "timestamp": "2026-02-06T11:30:39.261223",
+        "won": true,
+        "attempts": [
+          4,
+          6,
+          7,
+          8
+        ],
+        "attempts_count": 4,
+        "secret_number": 8
+      }
+    ]
+  }
+}
